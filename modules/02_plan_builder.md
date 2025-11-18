@@ -1,4 +1,4 @@
-Chnage Log (2025-11-18): 
+Change Log (2025-11-18): Updated module 2 based on AI critiques
 ### **Module 2 — Plan Builder (Options → Days)**
 
 Create a short list of candidate activities (e.g., attractions, restaurants, parks).  
